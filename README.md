@@ -14,8 +14,11 @@ ProteinFold will be developed using the following stack:
 
 - [ ] Well, First Understand How AlphaFold Works
 - [ ] Understand Protein Folding Process
-- [ ] Implement a 2D Resnet For Distance Prediction
-- [ ] Implement a 1D Resnet For Angle Prediction
+- [ ] Come Up With An Architecture For The Whole Process
+- [ ] Use Of Relevant Protein Folding Databases
+- [ ] Play With Existing Models
+- [ ] Implement a Different Model
+- [ ] Maybe Start blogging about this whole process who knows :)
 
 
 ### Contribution
