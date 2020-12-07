@@ -18,6 +18,7 @@ ProteinFold will be developed using the following stack:
 - [ ] Use Of Relevant Protein Folding Databases
 - [ ] Play With Existing Models
 - [ ] Implement a Different Model
+- [ ] Thinking of adding a GUI model using pyqt or tkinter(Future implementation)
 - [ ] Maybe Start blogging about this whole process who knows :)
 
 
