@@ -27,3 +27,6 @@ I would love to recieve Contributions From The Invitees!! :)
 #### Hope You All Stay Safe And Make Something Useful Out Of Your Quarantine Session.
 
 Coded With :heart: and :coffee: from Mombasa,Kenya
+
+# Please For Any Sponsorship:
+- Contact me through suhailraufsumra@outlook.com
