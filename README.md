@@ -22,7 +22,7 @@ ProteinFold will be developed using the following stack:
 - [ ] Maybe Start blogging about this whole process who knows :)
 
 ###AlphaFold_Work
-[I'm an inline-style link with title](https://moalquraishi.wordpress.com/2020/12/08/alphafold2-casp14-it-feels-like-ones-child-has-left-home/ "How AlphaFold Works")
+[How Does AlphaFold Work?](https://moalquraishi.wordpress.com/2020/12/08/alphafold2-casp14-it-feels-like-ones-child-has-left-home/ "How AlphaFold Works")
 
 ### Contribution
 I would love to recieve Contributions From The Invitees!! :)
