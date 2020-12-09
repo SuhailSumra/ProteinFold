@@ -7,8 +7,8 @@ ProteinFold is a replication of AlphaFold which perfoms predictions of Protein S
 ProteinFold will be developed using the following stack:
 
 - Python (Version 3.5+)
-- Tensorflow-GPU
-- Pytorch GPU
+- Tensorflow
+- Pytorch 
 
 ### Todos
 
