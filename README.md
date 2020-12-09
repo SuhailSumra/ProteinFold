@@ -1,6 +1,6 @@
 # ProteinFold
 
-ProteinFold is a replication of AlphaFold2 which perfoms predictions of Protein Structure.
+ProteinFold is a replication of AlphaFold which perfoms predictions of Protein Structure.
 
 ### Tech Stack 
 
