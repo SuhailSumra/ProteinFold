@@ -15,14 +15,16 @@ ProteinFold will be developed using the following stack:
 - [x] Well, First Understand How AlphaFold Works
 - [x] Understand Protein Folding Process
 - [ ] Come Up With An Architecture For The Whole Process
-- [ ] Use Of Relevant Protein Folding Databases
+- [x] Use Of Relevant Protein Folding Databases
 - [ ] Play With Existing Models
 - [ ] Implement a Different Model
 - [ ] Thinking of adding a GUI model using pyqt or tkinter(Future implementation)
 - [ ] Maybe Start blogging about this whole process who knows :)
 
-###AlphaFold_Work
-[How Does AlphaFold Work?](https://moalquraishi.wordpress.com/2020/12/08/alphafold2-casp14-it-feels-like-ones-child-has-left-home/ "How AlphaFold Works")
+### References
+
+- [How Does AlphaFold Work?](https://moalquraishi.wordpress.com/2020/12/08/alphafold2-casp14-it-feels-like-ones-child-has-left-home/ "How AlphaFold Works")
+- [ProteinNet Dataset](https://github.com/aqlaboratory/proteinnet "ProteinNet")
 
 ### Contribution
 I would love to recieve Contributions From The Invitees!! :)
